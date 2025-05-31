@@ -5,6 +5,8 @@ As an innovative Race for Wool map, Landfall is the first RFW map to include int
 
 In my humble opinion, this is the best map ever made for Race for Wool.
 
+[RFW Map Portal Link](https://portal.wool.run/maps/landfall/) (includes changelog)
+
 ## Screenshots
 
 A full overview of one lane
